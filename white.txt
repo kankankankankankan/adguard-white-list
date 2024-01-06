@@ -5,3 +5,7 @@
 @@||ad.oceanengine.com.bytedns1.com^$important
 @@||trk.klclick.com^$important
 @@||imacos.top^$important
+@@||d.ifengimg.com^$important
+!部分过滤
+||sslproxy.yy.com.lan^$important
+||access-sngapm.qcloud.com^$important
